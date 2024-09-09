@@ -1,7 +1,7 @@
 import { Route } from '@/types';
 import { processItems } from './utils';
 
-const baseURL = 'https://www.hao6v.cc/gvod/zx.html';
+const baseURL = 'https://www.6v520.net/zydy';
 
 export const route: Route = {
     path: '/latestMovies',
